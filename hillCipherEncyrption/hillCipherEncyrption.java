@@ -56,4 +56,9 @@ class hc
         }
         System.out.println(str);
 }
-}     
+}  
+/* Input -
+ Plaintext: ACT
+ Key: GYBNQKURP
+ Output -
+ Ciphertext: POH */
