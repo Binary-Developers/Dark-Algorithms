@@ -27,3 +27,26 @@ public class Main
 	   System.out.println(a[index]);
 	}
 }
+
+/* Input -
+Enter array length 
+5
+Enter array elements
+5
+4
+1
+3
+2
+Output -
+Unsorted Array is
+5
+4
+1
+3
+2
+Sorted Array is
+1
+2
+3
+4
+5 */
