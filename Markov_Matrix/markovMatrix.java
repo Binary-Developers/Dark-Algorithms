@@ -38,4 +38,13 @@ class Main
         System.out.println("The matrix is a Markov Matrix");
     }
 }
-   
+/* Input - Output :
+Enter number of rows and columns
+2
+2
+1 
+0
+0
+1
+
+The matrix is a Markov Matrix */
