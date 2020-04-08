@@ -24,3 +24,7 @@ class CatalanNumbers
          System.out.println(findCatalanNumber(i,dp));
     }
 }
+/* Input/Output - 
+Enter limit 
+5
+1 2 5 14 42 */
