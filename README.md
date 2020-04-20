@@ -7,5 +7,5 @@ This is a repository that acts as a Treasure House of Algorithms in various comp
 - **Python** - [@vanshika2900](https://github.com/vanshika2900)
 - **C++** - 
 - **C** - 
-- **JavaScrpt** - 
-
+- **JavaScript** - 
+- **PHP** - 
